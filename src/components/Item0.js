@@ -11,7 +11,7 @@ export default class Item0 extends Component {
           <li><Link to="/item1">Item1</Link></li>
         </ul>
         <hr/>
-        Item0
+        Item00
       </div>
     );
   }
