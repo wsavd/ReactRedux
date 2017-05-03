@@ -6,8 +6,8 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 import App from './components/app'
 import Home from './components/home'
-import Item0 from './components/Item0'
-import Item1 from './components/Item1'
+import Item0 from './components/item0'
+import Item1 from './components/item1'
 
 import reducers from './reducers';
 import promise from 'redux-promise';
